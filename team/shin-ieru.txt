@@ -1,0 +1,7 @@
+Full name: Gabriel Angelo S. Anyog
+GitHub username: shin-ieru
+Group (1-4): 2
+Member # (1-6): 1
+Task: Frontend
+One DOM/JS bug I now know how to spot: Using querySelector() instead of querySelectorAll() when trying to select multiple elements.
+One thing I bring to this team: Myself
