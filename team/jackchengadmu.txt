@@ -1,0 +1,7 @@
+Full name: Jack Kenaz Cheng
+GitHub username: jackchengadmu
+Group (1-4):2
+Member # (1-6):4
+Task: Frontend Development
+One DOM/JS bug I now know how to spot: Using querySelector() when I need to select multiple elements, since it only returns the first matching element.
+One thing I bring to this team:I am organized, communicate well, and help finish tasks on time.
