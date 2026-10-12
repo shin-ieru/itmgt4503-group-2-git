@@ -1,0 +1,7 @@
+Full name: Alcedrei Bangcola
+GitHub username: AlcedreiBangcola
+Group (1-4): 2 
+Member # (1-6): 2
+Task: (e.g. Frontend, etc. Just mention a random task.)
+One DOM/JS bug I now know how to spot: querySelector returns null because the script ran before the DOM finished loading
+One thing I bring to this team: Moral Support !!!
