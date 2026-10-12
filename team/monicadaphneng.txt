@@ -1,0 +1,7 @@
+Full name: Monica Ng
+GitHub username: monicadaphneng
+Group (1-4): 2
+Member # (1-6): 3
+Task: Team coordination and project organization
+One DOM/JS bug I now know how to spot: A button that does not respond because its click event listener is connected incorrectly.
+One thing I bring to this team: I can organize tasks, coordinate with group members, and help make sure everyone knows what needs to be done.
