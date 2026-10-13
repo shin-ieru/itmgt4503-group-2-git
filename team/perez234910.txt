@@ -1,0 +1,7 @@
+Full name: Dan Perez
+GitHub username: perez234910
+Group (1-4): 2
+Member # (1-6): 5
+Task: Frontend and Operations
+One DOM/JS bug I now know how to spot: Missing closing script tag
+One thing I bring to this team: Clear communication and execution
